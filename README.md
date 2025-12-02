@@ -10,6 +10,8 @@ Il permet de saisir une équation booléenne, de visualiser l’arbre logique av
 - Chargement des vecteurs d’entrée depuis un fichier texte
 - Affichage de l’arbre logique avec portes PNG
 - Génération de chronogrammes des signaux
+  <img width="718" height="517" alt="image" src="https://github.com/user-attachments/assets/874156d1-de21-49cc-95e9-1af26c914906" />
+
 
 ## Installation
 1. Ouvrir le projet dans Visual Studio
