@@ -25,5 +25,9 @@ Il permet de saisir une équation booléenne, de visualiser l’arbre logique av
 Saisie : `(X AND Y) OR Z`  
 Affichage : Arbre logique et chronogrammes pour X, Y, Z et la sortie S.
 
+
+<img width="958" height="871" alt="image" src="https://github.com/user-attachments/assets/eab52993-7f1d-4fa0-8f10-a8b70f5e88b8" />
+
+
 ## License
 Ce projet est sous licence MIT.
