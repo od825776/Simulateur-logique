@@ -16,7 +16,7 @@ Il permet de saisir une équation booléenne, de visualiser l’arbre logique av
 ## Installation
 1. Ouvrir le projet dans Visual Studio
 2. Compiler et exécuter
-3. Saisir une équation logique et charger un fichier de signaux (Signal.text dans le dossier AZZAZ)
+3. Saisir une équation logique et charger un fichier de signaux (AZZAZ/signal.txt) 
 4. Cliquer sur **Simuler** pour voir l’arbre logique et les chronogrammes
 
 ## Technologies utilisées
